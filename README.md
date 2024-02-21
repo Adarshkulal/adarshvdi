@@ -3,6 +3,20 @@ install gtkwave
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 install git
 ![agit](https://github.com/Adarshkulal/adarshvdi/assets/149968080/579a42cd-9254-4007-bf29-c4743d505017)
 
