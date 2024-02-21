@@ -59,3 +59,63 @@ install vim
 
 
 ![avlm](https://github.com/Adarshkulal/adarshvdi/assets/149968080/702f27e2-89f6-49a0-89a1-838a40320637)
+
+
+TASK2
+
+logic diagram
+
+
+
+
+
+
+
+
+
+![Logic_Diagram](https://github.com/Adarshkulal/adarshvdi/assets/149968080/b143bb5d-b116-4106-a83f-085a2ff40864)
+
+rtl schematic diagram
+
+
+
+
+
+
+
+
+
+![RTL Schematic View](https://github.com/Adarshkulal/adarshvdi/assets/149968080/a6437613-a005-4e5c-9808-d9a55735a0a3)
+
+waveforms
+
+
+
+
+
+
+
+
+
+![outa](https://github.com/Adarshkulal/adarshvdi/assets/149968080/0ded7f13-a3cf-424b-9833-c90f23731d7b)
+
+
+
+
+
+
+
+
+
+![out2](https://github.com/Adarshkulal/adarshvdi/assets/149968080/ba171e2f-fc3c-4ea4-ba8c-0b1a49134602)
+
+
+
+
+
+
+
+
+
+![out3](https://github.com/Adarshkulal/adarshvdi/assets/149968080/a97aecfc-5616-4aad-b167-a6e68379fed1)
+
