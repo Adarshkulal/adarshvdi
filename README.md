@@ -1,5 +1,4 @@
-install gtkwave
-![agtkwave](https://github.com/Adarshkulal/adarshvdi/assets/149968080/e87a3f76-6f82-43d2-b794-9afb1665bfaa)install git
+install gtkwave![agtkwave](https://github.com/Adarshkulal/adarshvdi/assets/149968080/e87a3f76-6f82-43d2-b794-9afb1665bfaa)install git
 
 
 
