@@ -119,3 +119,28 @@ waveforms
 
 ![out3](https://github.com/Adarshkulal/adarshvdi/assets/149968080/a97aecfc-5616-4aad-b167-a6e68379fed1)
 
+TASK 3
+
+commands
+
+
+
+
+
+
+
+
+
+![t3aaaaa](https://github.com/Adarshkulal/adarshvdi/assets/149968080/078c5e52-40fd-497f-91ac-61e2c3ef1705)
+
+output
+
+
+
+
+
+
+
+
+
+![aat3](https://github.com/Adarshkulal/adarshvdi/assets/149968080/163ca680-b55a-4208-9743-05e81b2d6160)
