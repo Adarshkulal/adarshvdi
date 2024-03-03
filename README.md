@@ -144,3 +144,8 @@ output
 
 
 ![aat3](https://github.com/Adarshkulal/adarshvdi/assets/149968080/163ca680-b55a-4208-9743-05e81b2d6160)
+
+TASK 4
+ yosys
+ ![a1t4](https://github.com/Adarshkulal/adarshvdi/assets/149968080/0ebbe5c9-e9d1-4c9a-8b95-5e571b55c4d0)
+
