@@ -179,7 +179,7 @@ TASK 4
 
 ![a8t4](https://github.com/Adarshkulal/adarshvdi/assets/149968080/8294b295-b0dc-4420-bd5b-7274506d209b)
 
-abc exeacting pas
+abc pas
 
 
 
@@ -203,3 +203,12 @@ graph
 
 
 ![a14t4](https://github.com/Adarshkulal/adarshvdi/assets/149968080/4d203853-d3f0-47cc-9908-8355d71579bd)
+
+netlist
+
+
+![a15t4](https://github.com/Adarshkulal/adarshvdi/assets/149968080/e25c8c28-9639-460c-acff-efd5e77fcd4a)
+
+
+
+![a16t4](https://github.com/Adarshkulal/adarshvdi/assets/149968080/369a7fc4-87dd-4c18-9a55-28c0209a0dab)
