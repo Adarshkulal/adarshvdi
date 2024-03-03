@@ -1,4 +1,4 @@
-TASK1
+![a1t4](https://github.com/Adarshkulal/adarshvdi/assets/149968080/65701551-763b-4f4d-8528-084b8bd5e9ce)TASK1
 
 install git
 
@@ -146,10 +146,60 @@ output
 ![aat3](https://github.com/Adarshkulal/adarshvdi/assets/149968080/163ca680-b55a-4208-9743-05e81b2d6160)
 
 TASK 4
+
  yosys
 
  
  
  ![a1t4](https://github.com/Adarshkulal/adarshvdi/assets/149968080/0ebbe5c9-e9d1-4c9a-8b95-5e571b55c4d0)
- 
 
+ synth -top good_mux
+
+
+ ![a2t4](https://github.com/Adarshkulal/adarshvdi/assets/149968080/ae867009-4dd0-490b-82cc-92720043bc8e)
+
+
+
+![a3t4](https://github.com/Adarshkulal/adarshvdi/assets/149968080/f4b0e9df-c6ff-4ea8-8fd3-b5139c090199)
+
+
+
+![a5t4](https://github.com/Adarshkulal/adarshvdi/assets/149968080/70466a66-1681-4df1-aef4-3989586132d2)
+
+
+
+
+![a6t4](https://github.com/Adarshkulal/adarshvdi/assets/149968080/1d84f111-6bdf-4e9a-9fa1-9ebf878aaf7d)
+
+
+
+![a7t4](https://github.com/Adarshkulal/adarshvdi/assets/149968080/6bae964a-3618-464f-b29c-05048403af44)
+
+
+
+![a8t4](https://github.com/Adarshkulal/adarshvdi/assets/149968080/8294b295-b0dc-4420-bd5b-7274506d209b)
+
+abc exeacting pas
+
+
+
+
+![a9t4](https://github.com/Adarshkulal/adarshvdi/assets/149968080/c486c357-fadf-481a-bdfb-545810f1a83b)
+
+
+
+![a10t4](https://github.com/Adarshkulal/adarshvdi/assets/149968080/9574e295-543f-4fef-81b6-37ef4e094d30)
+
+
+
+![a11t4](https://github.com/Adarshkulal/adarshvdi/assets/149968080/aba15ba8-2729-496b-83fd-acacef6989e8)
+
+
+graph
+
+![a13t4](https://github.com/Adarshkulal/adarshvdi/assets/149968080/2cdf642b-cb37-4170-ada2-fd6093634fd0)
+
+
+
+
+![a14t4](https://github.com/Adarshkulal/adarshvdi/assets/149968080/4d203853-d3f0-47cc-9908-8355d71579bd)
