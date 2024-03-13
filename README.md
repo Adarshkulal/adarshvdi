@@ -216,8 +216,14 @@ netlist
 
 
 TASK 5
+
 cd iiitb_tlc
+
 iverilog iiitb_tlc.v iiitb_tlc_tb.v
+
+
+
+
 ![t50](https://github.com/Adarshkulal/adarshvdi/assets/149968080/9fc90e1d-b947-4f35-a5aa-6621cd266525)
 
 
@@ -244,4 +250,21 @@ Synthesis of Verilog code To generate netlist
 
 
 
+![t56](https://github.com/Adarshkulal/adarshvdi/assets/149968080/7f72a1a4-c6a4-4c05-b0f0-38f39dd3bb5f)
+
+
+
 ![t57](https://github.com/Adarshkulal/adarshvdi/assets/149968080/9eca09b8-01c0-44d2-acab-95510538b1ff)
+
+
+![t59](https://github.com/Adarshkulal/adarshvdi/assets/149968080/4eeb5821-28ad-4f9d-baf1-ba43f0a880ec)
+
+
+
+![t58](https://github.com/Adarshkulal/adarshvdi/assets/149968080/8b8d86d3-9ed8-4704-a6ab-f2ae8ef31f97)
+
+
+to Run GLS
+
+iverilog ../iiitb_tlc/verilog_model/primitives.v ../iiitb_tlc/verilog_model/sky130_fd_sc_hd.v netlist.v iiitb_tlc_tb.v
+
