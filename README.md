@@ -212,3 +212,9 @@ netlist
 
 
 ![a16t4](https://github.com/Adarshkulal/adarshvdi/assets/149968080/369a7fc4-87dd-4c18-9a55-28c0209a0dab)
+
+
+
+TASK 5
+cd iiitb_tlc
+iverilog iiitb_tlc.v iiitb_tlc_tb.v
