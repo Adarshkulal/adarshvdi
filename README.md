@@ -218,3 +218,30 @@ netlist
 TASK 5
 cd iiitb_tlc
 iverilog iiitb_tlc.v iiitb_tlc_tb.v
+![t50](https://github.com/Adarshkulal/adarshvdi/assets/149968080/9fc90e1d-b947-4f35-a5aa-6621cd266525)
+
+
+
+![t51](https://github.com/Adarshkulal/adarshvdi/assets/149968080/c97b16b4-a38a-486b-946b-bb9166f123b6)
+
+Synthesis of Verilog code To generate netlist
+
+![t51 yosys](https://github.com/Adarshkulal/adarshvdi/assets/149968080/0a1afcd7-ac9a-4b9e-965a-b668ebbf0d35)
+
+
+![t52](https://github.com/Adarshkulal/adarshvdi/assets/149968080/0f372384-40d3-4c43-9f91-b9cd72901508)
+
+
+![t53](https://github.com/Adarshkulal/adarshvdi/assets/149968080/28a997ea-f217-41c0-97cc-eb412af1286e)
+
+
+
+![t54](https://github.com/Adarshkulal/adarshvdi/assets/149968080/23ab1f3e-828d-40f1-960e-56052cd0d065)
+
+
+
+![t55](https://github.com/Adarshkulal/adarshvdi/assets/149968080/282c2a1d-2b69-4625-8e52-2955805ac19c)
+
+
+
+![t57](https://github.com/Adarshkulal/adarshvdi/assets/149968080/9eca09b8-01c0-44d2-acab-95510538b1ff)
