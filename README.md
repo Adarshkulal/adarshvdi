@@ -263,8 +263,10 @@ Synthesis of Verilog code To generate netlist
 
 ![t58](https://github.com/Adarshkulal/adarshvdi/assets/149968080/8b8d86d3-9ed8-4704-a6ab-f2ae8ef31f97)
 
+ gls
+ 
+ 
+ 
+ ![image](https://github.com/Adarshkulal/adarshvdi/assets/149968080/644d405a-93c1-4d05-a50a-d2e831fb730d)
 
-to Run GLS
-
-iverilog ../iiitb_tlc/verilog_model/primitives.v ../iiitb_tlc/verilog_model/sky130_fd_sc_hd.v netlist.v iiitb_tlc_tb.v
 
