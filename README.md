@@ -195,7 +195,7 @@ abc pas
 ![a11t4](https://github.com/Adarshkulal/adarshvdi/assets/149968080/aba15ba8-2729-496b-83fd-acacef6989e8)
 
 
-graph
+waveform
 
 ![a13t4](https://github.com/Adarshkulal/adarshvdi/assets/149968080/2cdf642b-cb37-4170-ada2-fd6093634fd0)
 
@@ -272,6 +272,7 @@ To verify netlist
 
  
 
-![image](https://github.com/Adarshkulal/adarshvdi/assets/149968080/5739d143-854a-4dbe-8552-68cb8c9ab72d)
+![image](https://github.com/Adarshkulal/adarshvdi/assets/149968080/2e695f88-0834-4bed-9641-28aee71780a0)
+
 
 
