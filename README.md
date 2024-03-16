@@ -223,12 +223,12 @@ iverilog iiitb_tlc.v iiitb_tlc_tb.v
 
 
 
-
-![t50](https://github.com/Adarshkulal/adarshvdi/assets/149968080/9fc90e1d-b947-4f35-a5aa-6621cd266525)
-
+![a1](https://github.com/Adarshkulal/adarshvdi/assets/149968080/55362d1d-9adb-48d1-9d1c-5ea1cd62af36)
 
 
-![t51](https://github.com/Adarshkulal/adarshvdi/assets/149968080/c97b16b4-a38a-486b-946b-bb9166f123b6)
+
+![a2](https://github.com/Adarshkulal/adarshvdi/assets/149968080/9b68063f-bd66-4c05-b151-06431671ef64)
+
 
 Synthesis of Verilog code To generate netlist
 
@@ -263,10 +263,15 @@ Synthesis of Verilog code To generate netlist
 
 ![t58](https://github.com/Adarshkulal/adarshvdi/assets/149968080/8b8d86d3-9ed8-4704-a6ab-f2ae8ef31f97)
 
- gls
+
  
+To verify netlist 
+
+
+![alast](https://github.com/Adarshkulal/adarshvdi/assets/149968080/c9245c24-e1a3-41eb-9235-6a6a67f4d69d)
+
  
- 
- ![image](https://github.com/Adarshkulal/adarshvdi/assets/149968080/644d405a-93c1-4d05-a50a-d2e831fb730d)
+
+![image](https://github.com/Adarshkulal/adarshvdi/assets/149968080/5739d143-854a-4dbe-8552-68cb8c9ab72d)
 
 
